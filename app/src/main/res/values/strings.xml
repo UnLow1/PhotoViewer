@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotosViewer</string>
+    <string name="order_by">Order by:</string>
+    <string name="date_taken">Date taken</string>
+    <string name="date_published">Date published</string>
+    <string name="taken">Taken:</string>
+    <string name="published">Published:</string>
+    <string name="load_new_photos">Load new photos</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="tags">Tags:</string>
+    <string name="search_by_tag">Search by tag</string>
+</resources>
